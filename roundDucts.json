@@ -1,0 +1,27 @@
+[
+    {
+        "diameter":125,
+        "bare":0.18,
+        "insulated":0.37
+    },
+    {
+        "diameter":200,
+        "bare":0.21,
+        "insulated":0.40
+    },
+    {
+        "diameter":250,
+        "bare":0.25,
+        "insulated":0.48
+    },
+    {
+        "diameter":315,
+        "bare":0.28,
+        "insulated":0.60
+    },
+    {
+        "diameter":400,
+        "bare":0.32,
+        "insulated":0.68
+    }
+]
